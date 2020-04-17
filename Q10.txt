@@ -8,14 +8,14 @@ public class Q10 {
     private static boolean success = true;
     
     /*
-    Burada iki class ve instance deðerleri tanýmlanmýþtýr.
+    Burada iki class ve instance degerleri tanimlanmistir.
     */
     
     public static void main(String[] args) {
         final String retries = "1";
         
     /*
-    locak deðiþken tanýmlanmýþtýr.
+    local degisken tanimlanmistir.
     */
     }
     

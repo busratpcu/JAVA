@@ -8,7 +8,7 @@ public class Q18 {
         if (tree.equals("pine")){
             int height = 55; 
             /* 
-            height deðiþkeni if bloðunun içinde tanýmlanmýþtýr. Bu sebepten kodumuz derlenmez.
+            height deðiskeni if blogunun icinde tanimlanmistir. Bu sebepten kodumuz derlenmez.
             and the code does not compile
             */
             count = count +1;

@@ -9,6 +9,6 @@ public class Q44 {
     public static void main(String[] args) {
         System.out.print(numLock + " "+ capLock);
         /*
-        numLock deðiþkenine main methodundan eriþim saðlanmaz. Bu yüzden kodumuz derlenemez.
+        numLock degiskenine main methodundan erisim saglanmaz. Bu yuzden kodumuz derlenemez.
         */
     }

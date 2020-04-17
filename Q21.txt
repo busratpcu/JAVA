@@ -13,7 +13,7 @@ public class Q21 {
         int tomorrow = 40;
         System.out.print(today + tolls.tomorrow+Q21.yesterday);
 /*
-kodumuzun derlenmesi sonucunda ortaya çýkan deðerimiz 20 + 10 + 1 = 31 'dir. tomorrow ve yesterday deðerleri Q21 clasýndan glmektedir. today ise local deðiþkendir.
+kodumuzun derlenmesi sonucunda ortaya cikan degerimiz 20 + 10 + 1 = 31 'dir. tomorrow ve yesterday degerleri Q21 clasindan gelmektedir. today ise local deðiskendir.
 */
         
     }

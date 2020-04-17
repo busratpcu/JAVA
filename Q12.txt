@@ -4,7 +4,7 @@ public class Q12 {
     int birds = 10;
     
     /*
-Birds deðiþkeni static olmadýðý için main methodundan birds deðiþkenine eriþim yoktur. Bu sebepten kodumuz derlenmez.
+Birds deðiskeni static olmadigi icin main methodundan birds degiskenine erisim yoktur. Bu sebepten kodumuz derlenmez.
     */
     
     public static void main(String[] args) {

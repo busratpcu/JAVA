@@ -12,6 +12,6 @@ public class Q45 {
         System.out.print(feet + tracks + s.Wheels);
         
         /*
-		feet ve tracks locak deðiþkenler olduðu için deðerleri direkt bellidir. Wheels deðiþkenine de eriþimimiz mevcuttur Clasýmýzdan 1 deðeri döner.
+		feet ve tracks local degiskenler oldugu icin degerleri direkt bellidir. Wheels degiskenine de erisimimiz mevcuttur Clasimizdan 1 deðeri doner.
 		4+15+1=20
        */

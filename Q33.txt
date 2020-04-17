@@ -5,7 +5,7 @@ public class Q33 {
     static int start =2;
     final int end;
     public Q33(int x) {
-/* main methodu içinden 10 deðeri gönderilmesine raðmen içerde baþka bir deðere eþtlenmiþtir.*/
+/* main methodu icinden 10 degeri gonderilmesine ragmen icerde baska bir degere esitlenmistir.*/
         x = 4;
         end = x;
     }
@@ -20,7 +20,7 @@ public class Q33 {
     }
     
     /*
-    Q33 clasýnýn içinde start deðeri 2 iken end deðeri 4'tür.
+    Q33 clasinin icinde start degeri 2 iken end degeri 4'tür.
 
     */
     

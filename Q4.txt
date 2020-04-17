@@ -6,7 +6,7 @@ import java.sql.*;
 public class Q4 {
 
     private Date rob = new java.Date(); 
-    /* Kod bu satýr yüzünden derlenememektedir. Date sýnýfý tanýmlamasý aþaðýdaki satýr gibi olmalýdýr.    */
+    /* Kod bu satýr yuzunden derlenememektedir. Date sýnýfý tanýmlamasý asagidaki satir gibi olmalidir.    */
     private java.util.Date sharon = new java.util.Date();
     
     public static void main(String[] args) {
