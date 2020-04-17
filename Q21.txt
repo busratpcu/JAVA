@@ -1,0 +1,19 @@
+package q21;
+
+
+public class Q21 {
+    
+    private static int yesterday = 1;
+    int tomorrow = 10;
+        
+    public static void main(String[] args) {
+        Q21 tolls = new Q21();
+        int today = 20;
+                
+        int tomorrow = 40;
+        System.out.print(today + tolls.tomorrow+Q21.yesterday);
+/*
+kodumuzun derlenmesi sonucunda ortaya çýkan deðerimiz 20 + 10 + 1 = 31 'dir. tomorrow ve yesterday deðerleri Q21 clasýndan glmektedir. today ise local deðiþkendir.
+*/
+        
+    }

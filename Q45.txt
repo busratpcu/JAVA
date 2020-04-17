@@ -1,0 +1,17 @@
+package q45;
+
+
+public class Q45 {
+
+    static int Wheels = 1;
+    int tracks = 5;
+    public static void main(String[] args) {
+        Q45 s = new Q45();
+        int feet = 4;
+        int tracks = 15;
+        System.out.print(feet + tracks + s.Wheels);
+        
+        /*
+		feet ve tracks locak deðiþkenler olduðu için deðerleri direkt bellidir. Wheels deðiþkenine de eriþimimiz mevcuttur Clasýmýzdan 1 deðeri döner.
+		4+15+1=20
+       */

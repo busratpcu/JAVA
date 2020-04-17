@@ -1,0 +1,15 @@
+package q12;
+
+public class Q12 {
+    int birds = 10;
+    
+    /*
+Birds deðiþkeni static olmadýðý için main methodundan birds deðiþkenine eriþim yoktur. Bu sebepten kodumuz derlenmez.
+    */
+    
+    public static void main(String[] args) {
+        int trees = 5;
+        System.out.print(trees+birds); /* code does not compile because of this line
+    }
+    
+}
